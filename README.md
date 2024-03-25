@@ -3,7 +3,7 @@ This basic library help you to send SMS via ismartsms.net (Oman)
 
 ## Installation:
 ```bash
-composer phpawcom/ismartsms
+composer require phpawcom/ismartsms
 ```
 
 In your .env, add the following:
